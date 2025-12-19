@@ -1,3 +1,10 @@
+
+```
+
+# 🔹 Architecture du projet
+
+```
+
 App.jsx (state global)
 │
 ├─ components/
